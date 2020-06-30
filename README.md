@@ -8,9 +8,9 @@
 
 - Predicting steering angle can be thought of as a regression problem. 
 
--We will feed images to Convolutional Neural Network and the label will be the steering angle in that image.
+- We will feed images to Convolutional Neural Network and the label will be the steering angle in that image.
 
--Model will learn the steering angle from the as per the turns in the image and will finally predicts steering angle for unknown images.
+- Model will learn the steering angle from the as per the turns in the image and will finally predicts steering angle for unknown images.
 
 
 ![Final_short](https://github.com/RameshBattu/Self-Driving-Car/blob/master/selfdriving%20car%20run%20dataset%20visual-gif.gif)
@@ -20,7 +20,7 @@ You can download and watch full video from here: https://drive.google.com/file/d
 
 # Dataset
 
-Refer this: https://github.com/SullyChen/Autopilot-TensorFlow
+Refer to: https://github.com/SullyChen/Autopilot-TensorFlow
 
 There are total 45406 images in the dataset along with their steering angles. We will split the dataset into train and test in a ratio of 70:30 sequentially.
 
@@ -43,5 +43,5 @@ pip install tensorflow
 OpenCV: It is used for processing images.
 pip install opencv-python
 
-<nav style="text-align:center">
-<a href="https://www.linkedin.com/in/rameshbattuai/">RAMESH BATTU</a></nav>
+**<nav style="text-align:center">
+<a href="https://www.linkedin.com/in/rameshbattuai/">RAMESH BATTU</a></nav>**
